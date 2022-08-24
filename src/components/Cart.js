@@ -48,8 +48,7 @@ function Cart() {
     <div className="body-cart pb-4">
       <div className="container">
         <span className="fs-3 py-4 d-block d-none d-sm-block">
-          Giỏ Hàng Của Bạn{" "}
-          <span className="fs-6 text-secondary">(3 sản phẩm)</span>
+          Giỏ Hàng Của Bạn <span className="fs-6 text-secondary"></span>
         </span>
         <div className="row">
           <div className="col-lg-8">
